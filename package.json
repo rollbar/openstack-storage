@@ -3,7 +3,7 @@
   "name": "openstack-storage",
   "description": "Openstack Storage (Swift) client for node.js",
   "keywords": ["openstack", "storage", "client", "javascript"],
-  "version": "0.1.0-1",
+  "version": "0.1.0-2",
   "homepage": "https://github.com/feedhenry/openstack-storage",
   "repository": {
     "type": "git",
